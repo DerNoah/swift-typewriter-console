@@ -8,6 +8,8 @@ Terminal or Xcode's console.
 
 > Imported as `import TypewriterConsole` (the package is named `swift-typewriter-console`).
 
+![TypewriterConsole demo: timestamped lines type themselves in with a per-letter fade, a progress line rewrites in place, and a streamed summary graduates into the log](assets/demo.gif)
+
 ## Requirements
 
 - iOS 17+ / macOS 14+
